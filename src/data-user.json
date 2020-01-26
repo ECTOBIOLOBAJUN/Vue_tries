@@ -1,0 +1,13 @@
+{
+  "numberUser": 2,
+  "dataUser": [
+    {
+      "name": "test",
+      "password": "test"
+    },
+    {
+      "name": "123",
+      "password": "123"
+    }
+  ]
+}
